@@ -1,0 +1,18 @@
+body{
+    background-image: url(neda-astani-KWTkd7mHqKE-unsplash.jpg) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100px;
+        /* background-attachment: scroll; */
+       
+        background-size:100%;
+}
+.collapse navbar-collapse{
+    background-color: rgb(159, 163, 169);
+}
+h1{
+    font-style: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
+    /* color: cadetblue; */
+}
